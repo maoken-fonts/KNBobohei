@@ -13,11 +13,11 @@
 精心设计的日文假名和注音符号。  
 流畅的曲线彰显个性动感。
 
-![explain02](./documentation/explain02.png)
+![explain02](./documentation/explain02.jpg)
 
 字体笔画粗细排布均一合理，小字可读性较高。
 
-![explain03](./documentation/explain03.png)
+![explain03](./documentation/explain03.jpg)
 
 ## 授权 License
 
